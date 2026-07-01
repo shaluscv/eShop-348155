@@ -491,3 +491,5 @@ $RECYCLE.BIN/
 /playwright/.auth/
 /user.json
 .azure
+.file_activity_report.json
+.knowledge.kavia
